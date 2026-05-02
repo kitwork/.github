@@ -1,5 +1,5 @@
 
-## ${kitwork} Hello World.
+## ${ Kitwork } Hello World.
 
 - Website 🌐 [Kitwork](https://kitwork.io)
 - Engine⚙️ [Engine](https://github.com/kitwork/engine)
