@@ -5,7 +5,7 @@
 A Go-native bytecode runtime for ultra-fast backend logic.
 
 ```javascript id="z2r7km"
-const { router, log, database } = kitwork();
+import { router, log, database } from 'kitwork';
 
 const db = database.connect();
 
